@@ -21,11 +21,17 @@ Hacker News is extremely popular in technology and startup circles, and posts th
 [Project 3: Finding Heavy Traffic Indicators on I-96](https://github.com/harshithakumar-viji/Traffic-indicator)
 
 The objective of this project was to determine the factors affecting traffic. The focus is on exploratory data visualization using Pandas and matplotlib.
-Learnt the following:
+Learnt the following:Analyzing Kickstarter Projects](
 * How to visualize time series data with plots
 * How to visualize correlations with scatter plots
 * How to visualize frequency distributions with bar plots and histigrams
 * How to speed up visalization workflow with the help of Pandas library
+
+[Project 4: Analyzing SQL Projects]( https://github.com/harshithakumar-viji/SQL_Kickstarter)
+
+In this project, I analyzed SQL projects to look for patterns in failed campaigns.
+The end users of the data now have clean tables that they can review to answer their exact questions about what might contribute to a successful Kickstarter project. 
+In addition, the code is well-formatted and easy to recycle for additional projects.
    
 [Paper Publication: Stroke Prediction Using Machine Learning Algorithms](https://doi.org/10.21276/ijirem.2021.8.4.2)
 
