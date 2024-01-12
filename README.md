@@ -1,9 +1,7 @@
 # Harshitha's-Project-Portfolio
 [Project 1: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/harshithakumar-viji/App-profile)
 
-
 In this project I learnt complete data science workflow:
-
 * Clarified the goal of the project
 * Collected relevant data
 * Cleaned the data to prepare it for analysis
