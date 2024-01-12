@@ -27,5 +27,9 @@ Learnt the following:
 * How to visualize time series data with plots
 * How to visualize correlations with scatter plots
 * How to visualize frequency distributions with bar plots and histigrams
-* How to speed up visalization workflow with the help of Pandas libra
+* How to speed up visalization workflow with the help of Pandas library
    
+[Paper Publication: Stroke Prediction Using Machine Learning Algorithms](https://doi.org/10.21276/ijirem.2021.8.4.2)
+
+This paper was published as a research project to fulfill the bachelor's degree requirement.
+Stroke is a destructive illness that typically influences individuals over the age of 65 years age. Prediction of stroke is a time consuming and tedious for doctors. Therefore, the project mainly aims at predicting the chances of occurrence of stroke using the emerging Machine Learning techniques. Five different algorithms are used and a comparison is made for better accuracy. Aim is to create an application with a user-friendly interface which is easy to navigate and enter inputs.
