@@ -27,5 +27,5 @@ Learnt the following:
 * How to visualize time series data with plots
 * How to visualize correlations with scatter plots
 * How to visualize frequency distributions with bar plots and histigrams
-* How to speed up visalization workflow with the help of Pandas library
+* How to speed up visalization workflow with the help of Pandas libra
    
