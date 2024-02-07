@@ -1,5 +1,5 @@
 # Harshitha's-Project-Portfolio
-[Project 1: Analyzing SQL Projects](https://github.com/harshithakumar-viji/Credit_Risk)
+[Project 1: Credit Risk Prediction](https://github.com/harshithakumar-viji/Credit_Risk)
 
 The use of credit risk modeling in predicting the likelihood of default on credit cards is indeed crucial in the financial industry. By accurately assessing an individual borrower's credit risk, financial institutions can make informed decisions about lending and mitigate potential losses from defaults. Building a machine learning model to predict the probability of a person defaulting on a loan involves several steps, as outlined below:
 * Data Preprocessing and Data Preparation: This involves handling missing values, outliers;  Transforming categorical variables into numerical representations (e.g., one-hot encoding) and scaling numerical features; Splitting the dataset into training and testing sets to train and evaluate the model, respectively.
