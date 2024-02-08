@@ -45,3 +45,7 @@ In addition, the code is well-formatted and easy to recycle for additional proje
 
 This paper was published as a research project to fulfill the bachelor's degree requirement.
 Stroke is a destructive illness that typically influences individuals over the age of 65 years age. Prediction of stroke is a time consuming and tedious for doctors. Therefore, the project mainly aims at predicting the chances of occurrence of stroke using the emerging Machine Learning techniques. Five different algorithms are used and a comparison is made for better accuracy. Aim is to create an application with a user-friendly interface which is easy to navigate and enter inputs.
+
+[Medium Blog Post] (https://medium.com/@harshukv/decoding-lifes-economics-with-freakonomics-de6a2832b73b)
+
+Excited to share insights from "Freakonomics" by Steven D. Levitt and Stephen J. Dubner! 📚 Discover how economic thinking can illuminate hidden connections and reshape our understanding of the world.
